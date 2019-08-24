@@ -1,0 +1,1 @@
+# Arquitectura-de-software-escalable-en-blockchain-para-garantizar-la-integridad-del-almacenamiento
